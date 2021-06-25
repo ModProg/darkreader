@@ -110,7 +110,7 @@ However, this can be enabled by the following steps:
 
 <h2 align="center">Backers</h2>
 <br/>
-<h3 align="center"><strong>Thank you to all our generous backers! </strong>Support Dark Reader by <a rel="noreferrer noopener" href="https://opencollective.com/darkreader" target="_blank">Becoming a backer</a></h3>
+<h3 align="center"><strong>Thank you to all our generous backers! </strong>Support Dark Reader by <a href="https://opencollective.com/darkreader">Becoming a backer</a></h3>
 <br/>
 <br/>
 <p align="center"><a href="https://opencollective.com/darkreader#backers"><img src="https://opencollective.com/darkreader/backers.svg?width=890&limit=1000"></a></p>
