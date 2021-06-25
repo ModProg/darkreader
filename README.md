@@ -121,14 +121,14 @@ href="https://github.com/darkreader/darkreader#sponsors">on Github</a> - who doe
 
 <h3 align="center"><strong>Thank you to our wonderful sponsors!</strong></h3>
 
-<a href="https://opencollective.com/darkreader/sponsor/0/website"><img src="https://opencollective.com/darkreader/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/1/website"><img src="https://opencollective.com/darkreader/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/2/website"><img src="https://opencollective.com/darkreader/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/3/website"><img src="https://opencollective.com/darkreader/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/4/website"><img src="https://opencollective.com/darkreader/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/5/website"><img src="https://opencollective.com/darkreader/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/6/website"><img src="https://opencollective.com/darkreader/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/7/website"><img src="https://opencollective.com/darkreader/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/8/website"><img src="https://opencollective.com/darkreader/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/9/website"><img src="https://opencollective.com/darkreader/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/10/website"><img src="https://opencollective.com/darkreader/sponsor/10/avatar.svg"></a>
+[![](https://opencollective.com/darkreader/sponsor/0/avatar.svg)](https://opencollective.com/darkreader/sponsor/0/website)
+[![](https://opencollective.com/darkreader/sponsor/1/avatar.svg)](https://opencollective.com/darkreader/sponsor/1/website)
+[![](https://opencollective.com/darkreader/sponsor/2/avatar.svg)](https://opencollective.com/darkreader/sponsor/2/website)
+[![](https://opencollective.com/darkreader/sponsor/3/avatar.svg)](https://opencollective.com/darkreader/sponsor/3/website)
+[![](https://opencollective.com/darkreader/sponsor/4/avatar.svg)](https://opencollective.com/darkreader/sponsor/4/website)
+[![](https://opencollective.com/darkreader/sponsor/5/avatar.svg)](https://opencollective.com/darkreader/sponsor/5/website)
+[![](https://opencollective.com/darkreader/sponsor/6/avatar.svg)](https://opencollective.com/darkreader/sponsor/6/website)
+[![](https://opencollective.com/darkreader/sponsor/7/avatar.svg)](https://opencollective.com/darkreader/sponsor/7/website)
+[![](https://opencollective.com/darkreader/sponsor/8/avatar.svg)](https://opencollective.com/darkreader/sponsor/8/website)
+[![](https://opencollective.com/darkreader/sponsor/9/avatar.svg)](https://opencollective.com/darkreader/sponsor/9/website)
+[![](https://opencollective.com/darkreader/sponsor/10/avatar.svg)](https://opencollective.com/darkreader/sponsor/10/website)
