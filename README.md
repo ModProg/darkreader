@@ -116,8 +116,8 @@ However, this can be enabled by the following steps:
 <p align="center"><a href="https://opencollective.com/darkreader#backers"><img src="https://opencollective.com/darkreader/backers.svg?width=890&limit=1000"></a></p>
 
 <h2 align="center">Sponsors</h2>
-<p>Does your company use Dark Reader? Ask your manager or the marketing team if your company would be interested in supporting our project. By supporting this project, it will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show <a
-href="https://github.com/darkreader/darkreader#sponsors">on Github</a> - who doesn't want a little extra exposure? <a href="https://opencollective.com/darkreader">Here's the info</a>.</p>
+
+Does your company use Dark Reader? Ask your manager or the marketing team if your company would be interested in supporting our project. By supporting this project, it will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show [on Github](https://github.com/darkreader/darkreader#sponsors) - who doesn't want a little extra exposure? [Here's the info](https://opencollective.com/darkreader).
 
 <h3 align="center"><strong>Thank you to our wonderful sponsors!</strong></h3>
 
