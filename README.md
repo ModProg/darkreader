@@ -1,7 +1,7 @@
-<p align="center"><a href="https://darkreader.org" target="_blank" rel="noreferrer noopener"><img width="250" alt="Dark Reader's mascot" src="https://raw.githubusercontent.com/darkreader/darkreader.github.io/master/images/darkreader-mascot.svg"></a></p>
+<p align="center"><a href="https://darkreader.org"><img width="250" alt="Dark Reader's mascot" src="https://raw.githubusercontent.com/darkreader/darkreader.github.io/master/images/darkreader-mascot.svg"></a></p>
 <p align="center">Dark Reader <strong>analyzes</strong> web pages and aims to <strong>reduce the eyestrain</strong> while you browse the web.</p>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome%20Web%20Store-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://addons.mozilla.org/firefox/addon/darkreader/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox%20Addons-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a rel="noreferrer noopener" href="https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc/"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge%20Addons-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a el="noreferrer noopener" href="https://addons.thunderbird.net/thunderbird/addon/darkreader"><img alt="Thunderbird" src="https://img.shields.io/badge/Thunderbird-141e24.svg?&style=for-the-badge&logo=thunderbird&logoColor=white"></a>
+<p align="center"><a href="https://chrome.google.com/webstore/detail/dark-reader/eimadpbcbfnmbkopoojfekhnkhdbieeh/"><img alt="Chrome Web Store" src="https://img.shields.io/badge/Chrome%20Web%20Store-141e24.svg?&style=for-the-badge&logo=google-chrome&logoColor=white"></a>  <a href="https://addons.mozilla.org/firefox/addon/darkreader/"><img alt="Firefox Add-ons" src="https://img.shields.io/badge/Firefox%20Addons-141e24.svg?&style=for-the-badge&logo=firefox-browser&logoColor=white"></a>  <a href="https://microsoftedge.microsoft.com/addons/detail/dark-reader/ifoakfbpdcdoeenechcleahebpibofpc/"><img alt="Edge Addons" src="https://img.shields.io/badge/Edge%20Addons-141e24.svg?&style=for-the-badge&logo=microsoft-edge&logoColor=white"></a>  <a href="https://addons.thunderbird.net/thunderbird/addon/darkreader"><img alt="Thunderbird" src="https://img.shields.io/badge/Thunderbird-141e24.svg?&style=for-the-badge&logo=thunderbird&logoColor=white"></a>
 
 <h2 align="center">Dark Reader</h2>
 <br/>
@@ -106,28 +106,29 @@ However, this can be enabled by the following steps:
 <h3 align="center"><strong>Dark Reader exists thanks to all the people who have contributed to Dark Reader!</strong></h3>
 <br/>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://github.com/darkreader/darkreader/graphs/contributors/"><img src="https://opencollective.com/darkreader/contributors.svg?width=890&button=false"/></a></p>
+<p align="center"><a href="https://github.com/darkreader/darkreader/graphs/contributors/"><img src="https://opencollective.com/darkreader/contributors.svg?width=890&button=false"/></a></p>
 
 <h2 align="center">Backers</h2>
 <br/>
 <h3 align="center"><strong>Thank you to all our generous backers! </strong>Support Dark Reader by <a rel="noreferrer noopener" href="https://opencollective.com/darkreader" target="_blank">Becoming a backer</a></h3>
 <br/>
 <br/>
-<p align="center"><a rel="noreferrer noopener" href="https://opencollective.com/darkreader#backers" target="_blank"><img src="https://opencollective.com/darkreader/backers.svg?width=890&limit=1000"></a></p>
+<p align="center"><a href="https://opencollective.com/darkreader#backers"><img src="https://opencollective.com/darkreader/backers.svg?width=890&limit=1000"></a></p>
 
 <h2 align="center">Sponsors</h2>
-<p>Does your company use Dark Reader? Ask your manager or the marketing team if your company would be interested in supporting our project. By supporting this project, it will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show <a rel="noreferrer noopener" href="https://github.com/darkreader/darkreader#sponsors" target="_blank">on Github</a> - who doesn't want a little extra exposure? <a rel="noreferrer noopener" href="https://opencollective.com/darkreader" target="_blank">Here's the info</a>.</p>
+<p>Does your company use Dark Reader? Ask your manager or the marketing team if your company would be interested in supporting our project. By supporting this project, it will allow the maintainers to dedicate more time for maintenance and new features for everyone. Also, your company's logo will show <a
+href="https://github.com/darkreader/darkreader#sponsors">on Github</a> - who doesn't want a little extra exposure? <a href="https://opencollective.com/darkreader">Here's the info</a>.</p>
 
 <h3 align="center"><strong>Thank you to our wonderful sponsors!</strong></h3>
 
-<a href="https://opencollective.com/darkreader/sponsor/0/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/0/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/1/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/1/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/2/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/2/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/3/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/3/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/4/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/4/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/5/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/5/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/6/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/6/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/7/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/7/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/8/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/8/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/9/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/9/avatar.svg"></a>
-<a href="https://opencollective.com/darkreader/sponsor/10/website" target="_blank" rel="noreferrer noopener"><img src="https://opencollective.com/darkreader/sponsor/10/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/0/website"><img src="https://opencollective.com/darkreader/sponsor/0/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/1/website"><img src="https://opencollective.com/darkreader/sponsor/1/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/2/website"><img src="https://opencollective.com/darkreader/sponsor/2/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/3/website"><img src="https://opencollective.com/darkreader/sponsor/3/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/4/website"><img src="https://opencollective.com/darkreader/sponsor/4/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/5/website"><img src="https://opencollective.com/darkreader/sponsor/5/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/6/website"><img src="https://opencollective.com/darkreader/sponsor/6/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/7/website"><img src="https://opencollective.com/darkreader/sponsor/7/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/8/website"><img src="https://opencollective.com/darkreader/sponsor/8/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/9/website"><img src="https://opencollective.com/darkreader/sponsor/9/avatar.svg"></a>
+<a href="https://opencollective.com/darkreader/sponsor/10/website"><img src="https://opencollective.com/darkreader/sponsor/10/avatar.svg"></a>
